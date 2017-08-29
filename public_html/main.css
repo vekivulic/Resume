@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 28, 2017, 10:30:29 PM
+    Author     : vekivulic
+*/
+
+div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index: align-content; 
+	position: fixed;
+	width: 94%;
+	margin-top: -20px;
+	height: 100px;
+	background-color: darkgray;
+	margin-bottom: 10px;
+        text-align: center;
+}
+
+#name{
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: blueviolet;
+        text-align: center;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: blueviolet;
+        text-align: center;
+}
+
+h4 {
+	margin-left: 5px;
+	
+	font-family: Verdana, sans-serif;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #000000;
+}
+
+li {
+	list-style-type: square;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+	background-color: #B9D7D9;
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 55px;
+	width: 88%;
+	height: 760px;
+	background-color: #F4EBC3;
+	
+}
+
+
+
